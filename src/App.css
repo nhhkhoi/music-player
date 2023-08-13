@@ -1,0 +1,32 @@
+.current-song {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 20px;
+}
+
+.song-block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+.song-title {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.controller-group {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.body {
+  background-color: rgba(10, 8, 8, 0.922);
+}
